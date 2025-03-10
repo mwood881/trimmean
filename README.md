@@ -25,4 +25,5 @@ This repository serves the perpose of being a Go package to compute the trimmed 
 (3) Look at https://github.com/mwood881/trimmedmean-example as an example of using this package 
 We can compare this from R for trimming the mean. 
 
-I used github copilot to help clean up errors in my code. mostly for learning how to upload this repository to github first before making the second example repository!
+## Resources Used
+I used github copilot to help clean up errors in my code. mostly for learning how to upload this repository to github first before making the second example repository! Also used this link to help create the Go Package: Follow these instructions for creating a Go package: https://www.tutorialspoint.com/how-to-create-your-own-package-in-golangLinks to an external site. 
