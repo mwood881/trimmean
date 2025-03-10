@@ -1,13 +1,13 @@
-## Trimmed Mean Go Package
+# Trimmed Mean Go Package
 
-# Description:
+## Description:
 This repository serves the perpose of being a Go package to compute the trimmed mean. It can handle using symmetric and asymmetric to trim the data set. 
 
-# Features:
+## Features:
 - Trimmed mean
 - symmetric and asymmetric trimming
 
-# Installing the Package for Use
+## Installing the Package for Use
 (1) Clone repository: 
 
 
